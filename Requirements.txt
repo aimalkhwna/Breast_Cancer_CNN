@@ -1,0 +1,9 @@
+tensorflow>=2.16
+keras>=3.0
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.9
+scikit-learn>=1.7
+joblib>=1.4
+jupyter>=1.1
+notebook>=7.0
